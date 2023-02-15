@@ -1,4 +1,18 @@
 $my_color:rebeccapurple;
+$p_color: black;
+$font_color: gray;
+
 h3{
     color: $my_color;
+}
+.first{
+    color: $p_color;
+    border: 3px dashed $font_color;
+}
+.second{
+    color: $p_color;
+    background-color: $font_color;
+}
+.third{
+    color:teal;
 }

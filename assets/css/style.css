@@ -1,3 +1,17 @@
 h3 {
   color: rebeccapurple;
+}
+
+.first {
+  color: black;
+  border: 3px dashed gray;
+}
+
+.second {
+  color: black;
+  background-color: gray;
+}
+
+.third {
+  color: teal;
 }/*# sourceMappingURL=style.css.map */
